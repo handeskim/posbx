@@ -1,0 +1,522 @@
+Code,Name,Purchase Price,Tax,Retail Price,Category Code
+A111,Ph?t vÖ tr?c n??c m†t,0,0,0,1
+A112,Le nhi?t,0,0,0,1
+A113,DÉy le,0,0,0,1
+A114,DÉy ?ng - ten,0,0,0,1
+A115,B?c m†y,0,0,0,1
+A116,Ph?t vÖ tr?c n??c m†t,0,0,0,2
+A117,Ph?t vÖ tr?c n??c m†t,0,0,0,2
+A118,Le nhi?t,0,0,0,2
+A119,DÉy le,0,0,0,2
+A120,DÉy ?ng - ten,0,0,0,2
+A121,B?m x?ng,0,0,0,3
+A122,B?c m†y,0,0,0,3
+A123,M† ??a,0,0,0,4
+A124,M† ??a,0,0,0,6
+A125,Ph?t vÖ tr?c n??c m†t,0,0,0,10
+A126,Ph?t vÖ tr?c n??c m†t,0,0,0,10
+A127,Le nhi?t,0,0,0,10
+A128,DÉy phun x?ng ?i?n t?,0,0,0,10
+A129,DÉy le,0,0,0,10
+A130,DÉy ?ng - ten,0,0,0,10
+A131,B?m x?ng,0,0,0,10
+A132,M† ??a,0,0,0,11
+A133,Ph?t vÖ tr?c n??c m†t,0,0,0,15
+A134,Ph?t vÖ tr?c n??c m†t,0,0,0,15
+A135,DÉy phun x?ng ?i?n t?,0,0,0,15
+A136,DÉy le,0,0,0,15
+A137,DÉy ?ng - ten,0,0,0,15
+A138,B?m x?ng,0,0,0,15
+A139,Tr?c kÇt n??c,0,0,0,18
+A140,Ph?t kÇt n??c,0,0,0,18
+A141,Phay rÖ m?t quy l†t,0,0,0,18
+A142,DÉy le,0,0,0,18
+A143,DÉy ?ng - ten,0,0,0,18
+A144,B?n Sup pap,0,0,0,18
+A145,B?c m†y,0,0,0,18
+A146,Ph?t vÖ tr?c n??c m†t,0,0,0,20
+A147,DÉy phun x?ng ?i?n t?,0,0,0,20
+A148,DÉy le,0,0,0,20
+A149,DÉy ?ng - ten,0,0,0,20
+A150,B?m x?ng,0,0,0,20
+A151,DÉy phun x?ng ?i?n t?,0,0,0,21
+A152,DÉy le,0,0,0,21
+A153,DÉy ?ng - ten,0,0,0,21
+A154,B?m x?ng,0,0,0,21
+A155,B?c m†y,0,0,0,21
+A156,Ph?t vÖ tr?c n??c m†t,0,0,0,22
+A157,DÉy phun x?ng ?i?n t?,0,0,0,22
+A158,DÉy ?ng - ten,0,0,0,22
+A159,B?m x?ng,0,0,0,22
+A160,Ph?t vÖ tr?c n??c m†t,0,0,0,24
+A161,Ph?t vÖ tr?c n??c m†t,0,0,0,24
+A162,Tr?c kÇt n??c,0,0,0,25
+A163,Ph?t vÖ tr?c n??c m†t,0,0,0,25
+A164,Ph?t kÇt n??c,0,0,0,25
+A165,Phay rÖ m?t quy l†t,0,0,0,25
+A166,DÉy le,0,0,0,25
+A167,B?n Sup pap,0,0,0,25
+A168,Ph?t vÖ tr?c n??c m†t,0,0,0,27
+A169,Ph?t vÖ tr?c n??c m†t,0,0,0,27
+A170,Le nhi?t,0,0,0,27
+A171,DÉy phun x?ng ?i?n t?,0,0,0,27
+A172,DÉy le,0,0,0,27
+A173,DÉy ?ng - ten,0,0,0,27
+A174,B?m x?ng,0,0,0,27
+A175,DÉy le,0,0,0,28
+A176,DÉy ?ng - ten,0,0,0,28
+A177,B?c m†y,0,0,0,28
+A178,DÉy le,0,0,0,29
+A179,DÉy ?ng - ten,0,0,0,29
+A180,B?n Sup pap,0,0,0,29
+A181,B? ECU ?i?u khi?n khìng t?,0,0,0,29
+A182,Ph?t vÖ tr?c n??c m†t,0,0,0,32
+A183,Ph?t vÖ tr?c n??c m†t,0,0,0,32
+A184,DÉy le,0,0,0,32
+A185,DÉy ?ng - ten,0,0,0,32
+A186,B?m x?ng,0,0,0,32
+A187,Tr?c kÇt n??c,0,0,0,33
+A188,Ph?t kÇt n??c,0,0,0,33
+A189,Phay rÖ m?t quy l†t,0,0,0,33
+A190,B?n Sup pap,0,0,0,33
+A191,Ph?t vÖ tr?c n??c m†t,0,0,0,34
+A192,Le nhi?t,0,0,0,34
+A193,DÉy phun x?ng ?i?n t?,0,0,0,34
+A194,DÉy le,0,0,0,34
+A195,DÉy ?ng - ten,0,0,0,34
+A196,B?m x?ng,0,0,0,34
+A197,B? ECU ?i?u khi?n FI,0,0,0,34
+A198,B? ECU ?i?u khi?n c¢ t?,0,0,0,34
+A199,Ph?t vÖ tr?c n??c m†t,0,0,0,35
+A200,Le nhi?t,0,0,0,35
+A201,DÉy phun x?ng ?i?n t?,0,0,0,35
+A202,DÉy le,0,0,0,35
+A203,DÉy ?ng - ten,0,0,0,35
+A204,B?m x?ng,0,0,0,35
+A205,DÉy le,0,0,0,37
+A206,DÉy ?ng - ten,0,0,0,37
+A207,B?c m†y,0,0,0,37
+A208,B¢ng t†p lì,0,0,10000,1
+A209,B¢ng t†p lì,0,0,10000,2
+A210,B¢ng t†p lì,0,0,10000,3
+A211,B¢ng t†p lì,0,0,10000,10
+A212,B¢ng t†p lì,0,0,10000,15
+A213,B¢ng t†p lì,0,0,10000,18
+A214,B¢ng t†p lì,0,0,10000,20
+A215,B¢ng t†p lì,0,0,10000,21
+A216,B¢ng t†p lì,0,0,10000,22
+A217,B¢ng t†p lì,0,0,10000,27
+A218,B¢ng t†p lì,0,0,10000,28
+A219,B¢ng t†p lì,0,0,10000,32
+A220,B¢ng t†p lì,0,0,10000,35
+A221,B¢ng t†p lì,0,0,10000,37
+A222,V† xe XS,0,0,15000,19
+A223,R?a xe,0,0,15000,19
+A224,B¢ng t†p lì,0,0,15000,25
+A225,B¢ng t†p lì,0,0,15000,29
+A226,B¢ng t†p lì,0,0,15000,34
+A227,B¢ng xin nhan,0,0,25000,1
+A228,B¢ng xin nhan,0,0,25000,2
+A229,B¢ng xin nhan,0,0,25000,3
+A230,B¢ng xin nhan,0,0,25000,10
+A231,B¢ng xin nhan,0,0,25000,15
+A232,B¢ng xin nhan,0,0,25000,18
+A233,B¢ng xin nhan,0,0,25000,20
+A234,B¢ng xin nhan,0,0,25000,21
+A235,B¢ng xin nhan,0,0,25000,22
+A236,B¢ng xin nhan,0,0,25000,27
+A237,B¢ng xin nhan,0,0,25000,28
+A238,B¢ng xin nhan,0,0,25000,32
+A239,B¢ng xin nhan,0,0,25000,35
+A240,B¢ng xin nhan,0,0,25000,37
+A241,B¢ng h?u ( 1 qu?),0,0,30000,1
+A242,B¢ng h?u ( 1 qu?),0,0,30000,2
+A243,B¢ng h?u ( 1 qu?),0,0,30000,3
+A244,B¢ng h?u ( 1 qu?),0,0,30000,10
+A245,B¢ng h?u ( 1 qu?),0,0,30000,15
+A246,B¢ng h?u ( 1 qu?),0,0,30000,18
+A247,V† xe XG,0,0,30000,19
+A248,Ph?t bi b†nh tr??c,0,0,30000,19
+A249,B¢ng h?u ( 1 qu?),0,0,30000,20
+A250,B¢ng h?u ( 1 qu?),0,0,30000,21
+A251,B¢ng h?u ( 1 qu?),0,0,30000,22
+A252,B¢ng h?u ( 1 qu?),0,0,30000,27
+A253,B¢ng h?u ( 1 qu?),0,0,30000,28
+A254,B¢ng h?u ( 1 qu?),0,0,30000,32
+A255,B¢ng h?u ( 1 qu?),0,0,30000,35
+A256,B¢ng h?u ( 1 qu?),0,0,30000,37
+A257,D?u phanh,0,0,30000,38
+A258,RÖ vÇt mi?ng CE,0,0,40000,1
+A259,B¢ng h?u,0,0,40000,4
+A260,B¢ng h?u,0,0,40000,5
+A261,B¢ng ?än pha,0,0,40000,5
+A262,B¢ng h?u,0,0,40000,6
+A263,B¢ng h?u,0,0,40000,8
+A264,B¢ng h?u,0,0,40000,9
+A265,B¢ng h?u,0,0,40000,11
+A266,B¢ng h?u,0,0,40000,12
+A267,MÖi cam cï,0,0,40000,13
+A268,B¢ng h?u,0,0,40000,13
+A269,B¢ng h?u,0,0,40000,14
+A270,B¢ng h?u,0,0,40000,17
+A271,B¢ng h?u,0,0,40000,30
+A272,B¢ng h?u,0,0,40000,31
+A273,B¢ng h?u,0,0,40000,36
+A274,B¢ng h?u,0,0,40000,38
+A275,L?c gi¢,0,0,45000,4
+A276,Bi nhìng   ,0,0,45000,4
+A277,L?c gi¢,0,0,45000,5
+A278,?ui ?än,0,0,45000,5
+A279,Bi nhìng   ,0,0,45000,5
+A280,Bi nhìng   ,0,0,45000,6
+A281,L?c gi¢,0,0,45000,11
+A282,Bi nhìng   ,0,0,45000,11
+A283,L?c gi¢,0,0,45000,12
+A284,Bi nhìng   ,0,0,45000,12
+A285,L?c gi¢,0,0,45000,13
+A286,Bi nhìng   ,0,0,45000,13
+A287,L?c d?u nh?,0,0,45000,19
+A288,C?n b†nh tr??c,0,0,45000,19
+A289,Bi 203 ( vïng),0,0,45000,19
+A290,B¢ng xin nhan,0,0,45000,29
+A291,Bi nhìng   ,0,0,45000,38
+A292,Cìng t?c ??,0,0,50000,1
+A293,Cìng t?c Cïi,0,0,50000,1
+A294,Cìng t?c Cïi,0,0,50000,2
+A295,Cìng t?c Cïi,0,0,50000,10
+A296,Cìng t?c Cïi,0,0,50000,15
+A297,Cìng t?c Cïi,0,0,50000,18
+A298,êp vÖnh nan,0,0,50000,19
+A299,Cìng t?c Cïi,0,0,50000,20
+A300,Cìng t?c Cïi,0,0,50000,21
+A301,Cìng t?c Cïi,0,0,50000,22
+A302,Cìng t?c Cïi,0,0,50000,27
+A303,Cìng t?c Cïi,0,0,50000,28
+A304,Cìng t?c Cïi,0,0,50000,32
+A305,Cìng t?c ??,0,0,50000,35
+A306,Cìng t?c Cïi,0,0,50000,35
+A307,Cìng t?c Cïi,0,0,50000,37
+A308,DÉy Ga,0,0,55000,4
+A309,DÉy cìng t? mÇt,0,0,55000,4
+A310,DÉy Ga,0,0,55000,5
+A311,DÉy cìng t? mÇt,0,0,55000,5
+A312,DÉy Ga,0,0,55000,6
+A313,DÉy cìng t? mÇt,0,0,55000,6
+A314,Bi nhìng   ,0,0,55000,8
+A315,Bi nhìng   ,0,0,55000,14
+A316,Bi nhìng   ,0,0,55000,17
+A317,Buzzi CN,0,0,55000,19
+A318,Bi 6004 ( vïng),0,0,55000,19
+A319,Bi nhìng   ,0,0,55000,30
+A320,Bi nhìng   ,0,0,55000,31
+A321,Bi nhìng   ,0,0,55000,36
+A322,B¢ng ?än pha,0,0,60000,4
+A323,Ph?t nhìng,0,0,60000,9
+A324,B¢ng ?än pha,0,0,60000,11
+A325,B¢ng ?än pha,0,0,60000,12
+A326,B¢ng ?än pha,0,0,60000,14
+A327,B¢ng xin nhan,0,0,60000,25
+A328,B¢ng ?än pha,0,0,60000,30
+A329,M† c?,0,0,65000,4
+A330,DÉy phanh,0,0,65000,4
+A331,M† ??a,0,0,65000,5
+A332,M† c?,0,0,65000,5
+A333,DÉy phanh,0,0,65000,5
+A334,Bi ?? Wase Dream,0,0,65000,5
+A335,M† c?,0,0,65000,6
+A336,Gi?m gi?t b†nh sau,0,0,65000,6
+A337,M† c?,0,0,65000,11
+A338,DÉy phanh,0,0,65000,11
+A339,DÉy Ga,0,0,65000,11
+A340,DÉy cìng t? mÇt,0,0,65000,11
+A341,M† c?,0,0,65000,12
+A342,DÉy phanh,0,0,65000,12
+A343,DÉy Ga,0,0,65000,12
+A344,DÉy cìng t? mÇt,0,0,65000,12
+A345,M† c?,0,0,65000,13
+A346,DÉy phanh,0,0,65000,13
+A347,DÉy Ga,0,0,65000,13
+A348,DÉy cìng t? mÇt,0,0,65000,13
+A349,M† c?,0,0,65000,14
+A350,DÉy phanh,0,0,65000,14
+A351,DÉy Ga,0,0,65000,14
+A352,DÉy cìng t? mÇt,0,0,65000,14
+A353,DÉy phanh,0,0,65000,17
+A354,DÉy Ga,0,0,65000,17
+A355,DÉy cìng t? mÇt,0,0,65000,17
+A356,S?m 225/250-17,0,0,65000,19
+A357,DÉy phanh,0,0,65000,30
+A358,DÉy Ga,0,0,65000,30
+A359,DÉy cìng t? mÇt,0,0,65000,30
+A360,DÉy cìng t? mÇt,0,0,65000,31
+A361,M† c?,0,0,65000,38
+A362,DÉy phanh,0,0,65000,38
+A363,DÉy Ga,0,0,65000,38
+A364,DÉy cìng t? mÇt,0,0,65000,38
+A365,B†nh t? trung gian,0,0,70000,13
+A366,B¢ng h?u ( 1 qu?),0,0,70000,29
+A367,Gi?m gi?t b†nh sau,0,0,75000,4
+A368,Tay phanh ,0,0,75000,5
+A369,Gi?m gi?t b†nh sau,0,0,75000,5
+A370,?? chÉn tr??c,0,0,75000,5
+A371,Ch?i Than,0,0,75000,5
+A372,B†t bi ??,0,0,75000,5
+A373,DÉy cìng t? mÇt,0,0,75000,8
+A374,DÉy cìng t? mÇt,0,0,75000,9
+A375,Gi?m gi?t b†nh sau,0,0,75000,11
+A376,Gi?m gi?t b†nh sau,0,0,75000,12
+A377,Gi?m gi?t b†nh sau,0,0,75000,13
+A378,Gi?m gi?t b†nh sau,0,0,75000,13
+A379,M† ??a,0,0,75000,17
+A380,Tay phanh,0,0,75000,30
+A381,M† ??a,0,0,75000,30
+A382,M† ??a,0,0,75000,31
+A383,DÉy cìng t? mÇt,0,0,75000,36
+A384,Gi?m gi?t b†nh sau,0,0,75000,38
+A385,Cìng t?c Phanh tay,0,0,80000,1
+A386,Cìng t?c Pha c?t,0,0,80000,1
+A387,Cìng t?c ?än,0,0,80000,1
+A388,Cìng t?c Phanh tay,0,0,80000,2
+A389,Cìng t?c Pha c?t,0,0,80000,2
+A390,Bi banh   ,0,0,80000,4
+A391,Bi banh   ,0,0,80000,5
+A392,Bi banh   ,0,0,80000,6
+A393,Bi banh   ,0,0,80000,8
+A394,Bi nhìng 6004 ,0,0,80000,9
+A395,Bi banh   ,0,0,80000,9
+A396,Cìng t?c Phanh tay,0,0,80000,10
+A397,Cìng t?c Pha c?t,0,0,80000,10
+A398,Bi banh   ,0,0,80000,11
+A399,Bi banh   ,0,0,80000,12
+A400,Phot git,0,0,80000,13
+A401,Bi banh   ,0,0,80000,13
+A402,Bi banh   ,0,0,80000,14
+A403,Cìng t?c Phanh tay,0,0,80000,15
+A404,Cìng t?c Pha c?t,0,0,80000,15
+A405,Bi banh   ,0,0,80000,17
+A406,Cìng t?c Phanh tay,0,0,80000,18
+A407,Cìng t?c Pha c?t,0,0,80000,18
+A408,Cìng t?c ?än,0,0,80000,18
+A409,S?m 275-17,0,0,80000,19
+A410,S?m -14,0,0,80000,19
+A411,êp bi?n,0,0,80000,19
+A412,Cìng t?c Phanh tay,0,0,80000,20
+A413,Cìng t?c Pha c?t,0,0,80000,20
+A414,Cìng t?c Phanh tay,0,0,80000,21
+A415,Cìng t?c Phanh ??a,0,0,80000,21
+A416,Cìng t?c Pha c?t,0,0,80000,21
+A417,Cìng t?c ??,0,0,80000,21
+A418,Cìng t?c ?än,0,0,80000,21
+A419,Cìng t?c Phanh tay,0,0,80000,22
+A420,Cìng t?c Pha c?t,0,0,80000,22
+A421,B¢ng h?u ( 1 qu?),0,0,80000,25
+A422,Cìng t?c Phanh tay,0,0,80000,27
+A423,Cìng t?c Pha c?t,0,0,80000,27
+A424,Cìng t?c Phanh tay,0,0,80000,28
+A425,Cìng t?c Pha c?t,0,0,80000,28
+A426,Cìng t?c ?än,0,0,80000,28
+A427,Cìng t?c Phanh tay,0,0,80000,29
+A428,Bi banh   ,0,0,80000,30
+A429,Bi banh   ,0,0,80000,31
+A430,Cìng t?c Phanh tay,0,0,80000,32
+A431,Cìng t?c Pha c?t,0,0,80000,32
+A432,Cìng t?c Phanh tay,0,0,80000,34
+A433,B¢ng xin nhan,0,0,80000,34
+A434,Cìng t?c Phanh tay,0,0,80000,35
+A435,Cìng t?c Pha c?t,0,0,80000,35
+A436,Cìng t?c ?än,0,0,80000,35
+A437,Bi banh   ,0,0,80000,36
+A438,Cìng t?c Phanh tay,0,0,80000,37
+A439,Cìng t?c Pha c?t,0,0,80000,37
+A440,?¢ng ca bi,0,0,80000,38
+A441,Bi banh   ,0,0,80000,38
+A442,Gi?m gi?t b†nh sau,0,0,85000,8
+A443,Gi?m gi?t b†nh sau,0,0,85000,9
+A444,Gi?m gi?t b†nh sau,0,0,85000,14
+A445,Gi?m gi?t b†nh sau,0,0,85000,17
+A446,Cìng t? met,0,0,85000,22
+A447,Gi?m gi?t b†nh sau,0,0,85000,30
+A448,Gi?m gi?t b†nh sau,0,0,85000,31
+A449,Gi?m gi?t b†nh sau,0,0,85000,36
+A450,M† ??a,0,0,85000,38
+A451,L?c gi¢,0,0,85000,38
+A452,ChÉn van??ng,0,0,90000,1
+A453,ChÉn van??ng,0,0,90000,2
+A454,ChÉn van??ng,0,0,90000,10
+A455,ChÉn van??ng,0,0,90000,15
+A456,ChÉn van??ng,0,0,90000,18
+A457,Thay c? bì XS ng?n,0,0,90000,19
+A458,S?m -16,0,0,90000,19
+A459,ChÉn van??ng,0,0,90000,20
+A460,ChÉn van??ng,0,0,90000,21
+A461,ChÉn van??ng,0,0,90000,22
+A462,ChÉn van??ng,0,0,90000,25
+A463,ChÉn van??ng,0,0,90000,27
+A464,ChÉn van??ng,0,0,90000,28
+A465,ChÉn van??ng,0,0,90000,29
+A466,ChÉn van??ng,0,0,90000,32
+A467,ChÉn van??ng,0,0,90000,34
+A468,B¢ng h?u ( 1 qu?),0,0,90000,34
+A469,ChÉn van??ng,0,0,90000,35
+A470,ChÉn van??ng,0,0,90000,37
+A471,M† phanh ??a ,0,0,95000,1
+A472,DÉy cong-to-met Th??ng,0,0,95000,1
+A473,DÉy cong-to-met Th??ng,0,0,95000,2
+A474,Buzzi,0,0,95000,2
+A475,SÉu cìng t? mÇt,0,0,95000,4
+A476,SÉu cìng t? mÇt,0,0,95000,5
+A477,?? chÉn sau,0,0,95000,5
+A478,DÉy cong-to-met Th??ng,0,0,95000,10
+A479,Buzzi,0,0,95000,10
+A480,M† ??a,0,0,95000,12
+A481,M† ??a,0,0,95000,13
+A482,L†ng b†t cìn,0,0,95000,13
+A483,L?c gi¢,0,0,95000,14
+A484,M† phanh ??a ,0,0,95000,15
+A485,L?c gi¢,0,0,95000,17
+A486,DÉy cong-to-met Th??ng,0,0,95000,18
+A487,DÉy cong-to-met Th??ng,0,0,95000,20
+A488,Buzzi,0,0,95000,20
+A489,DÉy cong-to-met Th??ng,0,0,95000,21
+A490,Buzzi,0,0,95000,21
+A491,DÉy cong-to-met Th??ng,0,0,95000,22
+A492,Buzzi,0,0,95000,22
+A493,DÉy cong-to-met Th??ng,0,0,95000,28
+A494,L?c gi¢,0,0,95000,30
+A495,L?c gi¢,0,0,95000,31
+A496,DÉy cong-to-met Th??ng,0,0,95000,32
+A497,Buzzi,0,0,95000,32
+A498,M† phanh ??a ,0,0,95000,35
+A499,Bi 300 ( ?ìi),0,0,110000,19
+A500,Bi 201 ( ?ìi),0,0,110000,19
+A501,Bi 200 (?ìi),0,0,110000,19
+A502,Bi  301 (?ìi),0,0,110000,19
+A503,L?c gi¢,0,0,115000,1
+A504,L?c gi¢,0,0,115000,2
+A505,M† phanh ??a ,0,0,115000,3
+A506,L?c gi¢,0,0,115000,3
+A507,L?c gi¢,0,0,115000,8
+A508,L?c gi¢,0,0,115000,9
+A509,L?c gi¢,0,0,115000,10
+A510,L?c gi¢,0,0,115000,18
+A511,L?c gi¢,0,0,115000,20
+A512,L?c gi¢,0,0,115000,22
+A513,L?c gi¢,0,0,115000,28
+A514,L?c gi¢,0,0,115000,34
+A515,L?c gi¢,0,0,115000,35
+A516,SÉu cìng t? mÇt,0,0,115000,36
+A517,Tay phanh c?,0,0,120000,1
+A518,Ph?t tr?c lap,0,0,120000,1
+A519,Cìng t?c Xin nhan,0,0,120000,1
+A520,Cìng t?c Phanh ??a,0,0,120000,1
+A521,Buzzi,0,0,120000,1
+A522, R? le xi nhan,0,0,120000,1
+A523,Tay phanh ??a,0,0,120000,2
+A524,Tay phanh c?,0,0,120000,2
+A525,Ph?t tr?c lap,0,0,120000,2
+A526,Ph?t tr?c lap,0,0,120000,2
+A527,Cìng t?c Xin nhan,0,0,120000,2
+A528,Cìng t?c Phanh ??a,0,0,120000,2
+A529,Cìng t?c ??,0,0,120000,2
+A530,Cìng t?c ?än,0,0,120000,2
+A531, R? le xi nhan,0,0,120000,2
+A532,Tay phanh c?,0,0,120000,3
+A533,Ph?t tr?c lap,0,0,120000,3
+A534,Ph?t tr?c lap,0,0,120000,3
+A535,Buzzi,0,0,120000,3
+A536, R? le xi nhan,0,0,120000,3
+A537,S?n dä,0,0,120000,5
+A538,?ìi n?p xin nhan,0,0,120000,5
+A539,B¢ng ?än pha,0,0,120000,6
+A540,B¢ng ?än pha,0,0,120000,8
+A541,B¢ng ?än pha,0,0,120000,9
+A542,Tay phanh ??a,0,0,120000,10
+A543,Tay phanh c?,0,0,120000,10
+A544,Ph?t tr?c lap,0,0,120000,10
+A545,Ph?t tr?c lap,0,0,120000,10
+A546,Cìng t?c Xin nhan,0,0,120000,10
+A547,Cìng t?c Phanh ??a,0,0,120000,10
+A548,Cìng t?c ??,0,0,120000,10
+A549,Cìng t?c ?än,0,0,120000,10
+A550, R? le xi nhan,0,0,120000,10
+A551,B? ph?t m†y,0,0,120000,13
+A552,B¢ng ?än pha,0,0,120000,13
+A553,Tay phanh ??a,0,0,120000,15
+A554,Tay phanh c?,0,0,120000,15
+A555,Ph?t tr?c lap,0,0,120000,15
+A556,Ph?t tr?c lap,0,0,120000,15
+A557,Cìng t?c Xin nhan,0,0,120000,15
+A558,Cìng t?c Phanh ??a,0,0,120000,15
+A559,Cìng t?c ??,0,0,120000,15
+A560,Cìng t?c ?än,0,0,120000,15
+A561,Buzzi,0,0,120000,15
+A562, R? le xi nhan,0,0,120000,15
+A563,B¢ng ?än pha,0,0,120000,17
+A564,Ph?t tr?c lap,0,0,120000,18
+A565,MÖi cam cï,0,0,120000,18
+A566,Cìng t?c Xin nhan,0,0,120000,18
+A567,Cìng t?c Phanh ??a,0,0,120000,18
+A568,Cìng t?c ??,0,0,120000,18
+A569,Buzzi,0,0,120000,18
+A570,?c pittong,0,0,120000,18
+A571,Thay c? bì XS dÖi,0,0,120000,19
+A572,Phot gi?m s¢c XS,0,0,120000,19
+A573,L?c d?u to,0,0,120000,19
+A574,D?u m†y 1 l°t,0,0,120000,19
+A575,Buzzi CD,0,0,120000,19
+A576,Tay phanh ??a,0,0,120000,20
+A577,Tay phanh c?,0,0,120000,20
+A578,R? le xi nhan,0,0,120000,20
+A579,Ph?t tr?c lap,0,0,120000,20
+A580,Cìng t?c Xin nhan,0,0,120000,20
+A581,Cìng t?c Phanh ??a,0,0,120000,20
+A582,Cìng t?c ??,0,0,120000,20
+A583,Cìng t?c ?än,0,0,120000,20
+A584,Tay phanh c?,0,0,120000,21
+A585,Ph?t tr?c lap,0,0,120000,21
+A586,Ph?t tr?c lap,0,0,120000,21
+A587,Cìng t?c Xin nhan,0,0,120000,21
+A588, R? le xi nhan,0,0,120000,21
+A589,Tay phanh ??a,0,0,120000,22
+A590,Tay phanh c?,0,0,120000,22
+A591,R? le xi nhan,0,0,120000,22
+A592,Ph?t tr?c lap,0,0,120000,22
+A593,Ph?t tr?c lap,0,0,120000,22
+A594,Ph?t tr?c lap,0,0,120000,22
+A595,Cìng t?c Xin nhan,0,0,120000,22
+A596,Cìng t?c Phanh ??a,0,0,120000,22
+A597,Cìng t?c ??,0,0,120000,22
+A598,Cìng t?c ?än,0,0,120000,22
+A599,GiÖ vÇt b? xe,0,0,120000,23
+A600,Tay phanh ??a,0,0,120000,24
+A601,Tay phanh c?,0,0,120000,24
+A602,Ph?t tr?c lap,0,0,120000,24
+A603,Ph?t tr?c lap,0,0,120000,24
+A604, R? le xi nhan,0,0,120000,24
+A605,R? le b?m x?ng,0,0,120000,25
+A606,MÖi cam cï,0,0,120000,25
+A607,DÉy cong-to-met Th??ng,0,0,120000,25
+A608,Cìng t?c Phanh tay,0,0,120000,25
+A609,Cìng t?c Phanh ??a,0,0,120000,25
+A610,Tay phanh ??a,0,0,120000,27
+A611,Tay phanh c?,0,0,120000,27
+A612,Ph?t tr?c lap,0,0,120000,27
+A613,Ph?t tr?c lap,0,0,120000,27
+A614,Cìng t?c Xin nhan,0,0,120000,27
+A615,Cìng t?c Phanh ??a,0,0,120000,27
+A616,Cìng t?c ??,0,0,120000,27
+A617,Cìng t?c ?än,0,0,120000,27
+A618,Buzzi,0,0,120000,27
+A619, R? le xi nhan,0,0,120000,27
+A620,Tay phanh c?,0,0,120000,28
+A621,Ph?t tr?c lap,0,0,120000,28
+A622,Ph?t tr?c lap,0,0,120000,28
+A623,Cìng t?c Xin nhan,0,0,120000,28
+A624,Cìng t?c Phanh ??a,0,0,120000,28
+A625,Cìng t?c ??,0,0,120000,28
+A626,Buzzi,0,0,120000,28
+A627, R? le xi nhan,0,0,120000,28
+A628,Doong l†p,0,0,120000,29
+A629,DÉy cong-to-met Th??ng,0,0,120000,29
+A630,Cìng t?c Phanh ??a,0,0,120000,29
+A631,B¢ng ?än pha,0,0,120000,31
