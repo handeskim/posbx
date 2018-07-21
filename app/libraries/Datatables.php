@@ -125,6 +125,12 @@
     * @param string $type
     * @return mixed
     */
+	public function joindb($table, $fk, $type = NULL)
+    {
+      $this->joins[] = array($table, $fk, $type);
+      $this->db->join($table, $fk, $type);
+      return $this;
+    }
     public function join($table, $fk, $type = NULL)
     {
       $this->joins[] = array($table, $fk, $type);
